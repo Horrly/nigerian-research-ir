@@ -1,0 +1,34 @@
+[
+  {
+    "query": "machine learning classification",
+    "relevant_ids": [4, 8, 17, 21, 23, 26, 44, 45, 50]
+  },
+  {
+    "query": "intrusion detection network security",
+    "relevant_ids": [3, 9, 23, 49]
+  },
+  {
+    "query": "bioinformatics DNA sequence",
+    "relevant_ids": [33, 34, 35, 38, 39, 43]
+  },
+  {
+    "query": "cybersecurity threat detection",
+    "relevant_ids": [27, 28, 29, 31, 49]
+  },
+  {
+    "query": "information retrieval search ranking",
+    "relevant_ids": [7, 13, 14, 15, 46, 48]
+  },
+  {
+    "query": "healthcare medical diagnosis",
+    "relevant_ids": [4, 22, 26, 36, 37, 41, 45, 50]
+  },
+  {
+    "query": "web application development",
+    "relevant_ids": [6, 19, 29, 47]
+  },
+  {
+    "query": "text mining natural language processing",
+    "relevant_ids": [7, 10, 11, 12, 17, 44, 54]
+  }
+]

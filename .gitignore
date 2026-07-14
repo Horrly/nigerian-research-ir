@@ -1,0 +1,46 @@
+# ── Python ────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.Python
+
+# ── Virtual environment ───────────────────────────────────────────
+venv/
+.venv/
+env/
+
+# ── Django ────────────────────────────────────────────────────────
+# NOTE: db.sqlite3 is intentionally INCLUDED in this repository.
+# This is a CSC 522 academic submission — the 55-record dataset
+# must be present for evaluators to run the system without re-importing.
+# db.sqlite3   <-- deliberately NOT ignored
+*.log
+/backend/staticfiles/
+/backend/media/
+
+# ── Node / React / Vite ───────────────────────────────────────────
+node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/dist-ssr/
+*.local
+
+# ── Environment & secrets ─────────────────────────────────────────
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ── Editors / OS ─────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── pytest cache ─────────────────────────────────────────────────
+.pytest_cache/
